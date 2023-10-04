@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BCard-Doc/static/css/main.39e52ced.css",
+    "main.js": "/BCard-Doc/static/js/main.5a3a5584.js",
+    "index.html": "/BCard-Doc/index.html",
+    "main.39e52ced.css.map": "/BCard-Doc/static/css/main.39e52ced.css.map",
+    "main.5a3a5584.js.map": "/BCard-Doc/static/js/main.5a3a5584.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39e52ced.css",
+    "static/js/main.5a3a5584.js"
+  ]
+}
